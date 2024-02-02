@@ -1,0 +1,16 @@
+fire ./files/2.png null null true
+water ./files/1.png null null true
+earth ./files/3.png null null true
+air ./files/4.png null null true
+steam ./files/5.png fire water false
+lava ./files/6.png fire earth false
+obsidian ./files/30.png lava water false
+stone ./files/27.png lava air false
+mud ./files/12.png water earth false
+rain ./files/13.png water air false
+volcano ./files/8.png lava earth false
+energy ./files/11.png fire air false
+metal ./files/36.png fire stone false
+eruption ./files/21.png energy volcano false
+ash ./files/29.png energy volcano false
+rust ./files/27.png metal air false
